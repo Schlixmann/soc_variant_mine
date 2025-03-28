@@ -1,0 +1,1 @@
+# soc_variant_mine
